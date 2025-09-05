@@ -147,8 +147,7 @@ function App() {
         },
         serverTag: {
           title: "Server Tag",
-          description: "Use the server tag to introduce yourself in the community",
-          tagName: "# RedDot Dragon 🐉"
+          description: "Use the server tag to introduce yourself in the community"
         },
         join: {
           title: "Join Us Now",
@@ -211,8 +210,7 @@ function App() {
         },
         serverTag: {
           title: "Tag du Serveur",
-          description: "Utilisez le tag du serveur pour vous présenter dans la communauté",
-          tagName: "# RedDot Dragon 🐉"
+          description: "Utilisez le tag du serveur pour vous présenter dans la communauté"
         },
         join: {
           title: "Rejoignez-nous maintenant",
