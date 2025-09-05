@@ -45,7 +45,7 @@ function App() {
         home: "الرئيسية",
         about: "عن الخادم",
         rules: "القوانين",
-        serverTag: "تاغ السيرفر",
+        serverTag: "تاق السيرفر",
         join: "انضم إلينا"
       },
       sections: {
@@ -83,8 +83,8 @@ function App() {
           note: "القوانين قابلة للتعديل في اي وقت."
         },
         serverTag: {
-          title: "تاغ السيرفر",
-          description: "استخدم تاغ السيرفر للتعريف بنفسك في المجتمع",
+          title: "تاق السيرفر",
+          description: "استخدم تاق السيرفر للتعريف بنفسك في المجتمع",
         },
         join: {
           title: "انضم إلينا الآن",
@@ -460,7 +460,7 @@ function App() {
                 className="w-full rounded-lg border-2 border-yellow-500/30 shadow-2xl"
               />
               <p className="text-gray-400 text-sm mt-4">
-                {language === 'ar' ? 'معاينة تاغ السيرفر' : 
+                {language === 'ar' ? 'عجبك التاق صح  يا فخم ؟' : 
                  language === 'en' ? 'Server Tag Preview' : 
                  'Aperçu du Tag du Serveur'}
               </p>
