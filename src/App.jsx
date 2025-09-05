@@ -35,7 +35,7 @@ function App() {
   // Language content
   const content = {
     ar: {
-      title: "House of Dragon 🐉",
+      title: "House of Dragon",
       subtitle: "مجتمع هاوس اوف دراغون ، الخادم الاول للهدايا والدردشة وتكوين الصدقات والاستماع بوقتك!",
       joinServer: "انضم للخادم",
       serverTag: "التاق",
